@@ -1,2 +1,2 @@
 # PCF
-Text cuter control PCF
+Text counter control PCF
